@@ -41,3 +41,5 @@ bool useCustomFrame = false; // echos the custom frame if true, a copy of the in
 
 #### Wiring
 
+<img src="https://github.com/AndreasExner/RS485-UART-EchoTest/blob/main/RS485-UART-EchoTest_Steckplatine.png?raw=true" style="zoom: 50%;" />
+
