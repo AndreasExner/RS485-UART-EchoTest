@@ -1,7 +1,7 @@
 # RS485-UART-EchoTest
 
 Version: 1.0
-Date: 2020-12-15
+Date: 2020-12-21
 
 This sketch is useful for debugging and testing RS485/UART wirings. 
 Often the remote device is mounted somewhere on a rooftop or another 
