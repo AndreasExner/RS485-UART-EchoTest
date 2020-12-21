@@ -54,5 +54,5 @@ Do not activate useWindSensorFrame and useCustomFrame at the same time or the co
 
 #### Wiring
 
-<img src="https://github.com/AndreasExner/RS485-UART-EchoTest/blob/main/RS485-UART-EchoTest_Steckplatine.png?raw=true" style="zoom: 50%;" />
+<img src="https://raw.githubusercontent.com/AndreasExner/RS485-UART-EchoTest/main/RS485-UART-EchoTest_Steckplatine.png" style="zoom: 50%;" />
 
